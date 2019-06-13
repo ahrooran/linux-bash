@@ -1,4 +1,4 @@
-today=`date '+%D/%M/%Y'`;
+today=`date '+%m-%d-%Y'`;
 
 git add .
 
